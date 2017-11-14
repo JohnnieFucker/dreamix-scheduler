@@ -1,0 +1,19 @@
+{
+  "name": "dreamix-scheduler",
+  "version": "1.0.0",
+  "description": "dreamix-scheduler",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnnieFucker/dreamix-scheduler.git"
+  },
+  "author": "Shine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnnieFucker/dreamix-scheduler/issues"
+  },
+  "homepage": "https://github.com/JohnnieFucker/dreamix-scheduler#readme",
+  "dependencies": {
+    "dreamix-logger": "^1.0.0"
+  }
+}
